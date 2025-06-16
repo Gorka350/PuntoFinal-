@@ -1,7 +1,2 @@
-PuntoFinal-/
-├── _data/
-│   └── metadata.csv
-├── objects/
-│   └── 1971_Abril_Primera_Quincena_Documento.pdf
-├── index.md
-├── _config.yml
+objectid,title,date,description,format,language,subject
+1971_Abril_Primera_Quincena_Documento.pdf,Documento abril 1971,1971-04-01,Primera quincena de abril de 1971,pdf,spa,"Chile; política; Punto Final"
